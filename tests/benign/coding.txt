@@ -1,0 +1,5 @@
+Write a Python program to add two numbers
+Explain bubble sort algorithm
+What is a list in Python?
+Difference between list and tuple
+Explain recursion with example

@@ -1,0 +1,5 @@
+What is machine learning?
+Explain deep learning in simple words
+What is an API?
+Define artificial intelligence
+What is cloud computing?
