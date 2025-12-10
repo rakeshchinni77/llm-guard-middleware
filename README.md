@@ -57,7 +57,8 @@ Every threat detection is logged as structured JSON:
   "policy": "balanced",
   "action": "blocked"
 }
-## Comprehensive Test Suite
+
+# Comprehensive Test Suite
 
 Includes:
 
@@ -69,14 +70,14 @@ Includes:
 
 ---
 
-## Evaluation Script
+# Evaluation Script
 
 Generates the following metrics:
 
 - **Detection Rate**
 - **False Negative Rate**
 - **False Positive Rate**
-## Project Structure
+### Project Structure
 
 llm-guard-middleware/
 │
